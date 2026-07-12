@@ -14,8 +14,10 @@
 
 html { scroll-behavior: smooth; }
 
+/* Body */
 body {
   margin: 0;
+  padding-top: 76px;
   background: var(--bg);
   color: var(--ink);
   font-family: var(--sans);
